@@ -1,0 +1,34 @@
+{
+  "_from": "client-sessions",
+  "_id": "client-sessions@0.8.0",
+  "_inBundle": false,
+  "_location": "/client-sessions",
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "client-sessions",
+    "name": "client-sessions",
+    "escapedName": "client-sessions",
+    "fetchSpec": "latest"
+  },
+  "author": {
+    "name": "None"
+  },
+  "deprecated": false,
+  "description": "secure sessions stored in cookies",
+  "devDependencies": {
+    "express": "4.15.2"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "license": "MPL-2.0",
+  "main": "lib/client-sessions",
+  "name": "client-sessions",
+  "repository": {
+    "type": "git"
+  },
+  "scripts": {
+  },
+  "version": "0.8.0"
+}
